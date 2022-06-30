@@ -9,5 +9,6 @@
   Para este trabalho iremos desenvolver uma API para um sistema web, com o objetivo de facilitar os processos de armazenagem de dados e cálculos de remédios, para negócios farmacêuticos labotoriais, assim permitindo uma agilidade maior em questões como consultas das dosagens e cálculos de orçamentos para seus clientes.
   Utilizaremos do modelo MongoDB para criação dos CRUDs nesse banco de dados não relacional.
   
+  Devido a órgãos governamentais inspetores e como isso pode interferir na saúde do consumidor devemos manter um forte controle sob tais condicionamentos. Isso é calculado da forma mais antiga no papel, alguns utilizam de planilhas de excel para automatizar esta função e reduzir a margem de erro. Para contornar isso, será desenvolvido um aplicativo para oferecer uma interface mais amigável e intuitiva, para o usuário final conseguir realizar os cálculos com mais facilidade e comodidade de qualquer lugar com seu dispositivo móvel.
   
   
