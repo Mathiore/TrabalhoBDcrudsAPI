@@ -11,4 +11,5 @@
   
   Devido a órgãos governamentais inspetores e como isso pode interferir na saúde do consumidor devemos manter um forte controle sob tais condicionamentos. Isso é calculado da forma mais antiga no papel, alguns utilizam de planilhas de excel para automatizar esta função e reduzir a margem de erro. Para contornar isso, será desenvolvido um aplicativo para oferecer uma interface mais amigável e intuitiva, para o usuário final conseguir realizar os cálculos com mais facilidade e comodidade de qualquer lugar com seu dispositivo móvel.
   
+  Visando suprir essa lacuna do mercado farmacológico o FarmApp tende sanar todos esses problemas colocando todas as informações necessárias para gerar o valor final do produto manipulado na palma da mão de qualquer funcionário de um laboratório, quebrando a barreira de veiculação de seus orçamento para todas as pessoas, incluindo as que possuem baixa mobilidade ou acesso a um smartphone.
   
