@@ -197,9 +197,12 @@ app.get('/', (req, res) => {
   res.json({ message: 'Oi Express!' })
 })
 
+const mongoDB_USER = ""
+const mongoDB_SENHA = ""
+
 mongoose
   .connect(
-    'mongodb+srv://Crudapplication:<password>@cluster0.mtzga.mongodb.net/?retryWrites=true&w=majority',
+    `mongodb+srv://${mongoDB_USER}:${mongoDB_SENHA}@Crudapplication:<password>@cluster0.mtzga.mongodb.net/?retryWrites=true&w=majority`,
   )
   .then(() => {
     console.log('Conectou ao banco!')
