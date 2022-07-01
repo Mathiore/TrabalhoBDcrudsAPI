@@ -4,7 +4,7 @@
 - Banco de Dados II - Prof. Lucas Debatin, MSc.
 - Acadêmicos: Bruno Pereira Freitas, Marco Antonio C Jacinto, Matheus da Costa Raimundo.
 
-**Para utilizar o projeto não esqueça de instalar as depedências com o comando npm install express nodemon mongoose**
+**Para utilizar o projeto não esqueça de instalar as depedências com o comando ''npm install express nodemon mongoose'' ao final do arquivo index.js criamos uma const para digitar o usuário e senha do MongoDB **
 
 # Introdução
 
