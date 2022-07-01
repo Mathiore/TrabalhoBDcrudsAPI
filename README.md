@@ -4,6 +4,8 @@
 - Banco de Dados II - Prof. Lucas Debatin, MSc.
 - Acadêmicos: Bruno Pereira Freitas, Marco Antonio C Jacinto, Matheus da Costa Raimundo.
 
+**Para utilizar o projeto não esqueça de instalar as depedências com o comando npm install express nodemon mongoose**
+
 # Introdução
 
   Para este trabalho iremos desenvolver uma API para um sistema web, com o objetivo de facilitar os processos de armazenagem de dados e cálculos de remédios, para negócios farmacêuticos labotoriais, assim permitindo uma agilidade maior em questões como consultas das dosagens e cálculos de orçamentos para seus clientes.
